@@ -11,11 +11,11 @@
               type="name"
               placeholder="Phone number, username, or email" v-model="username"
             />
-            <label for="username">Phone number, username, or email</label>
+            <!-- <label for="username">Phone number, username, or email</label> -->
           </div>
           <div class="field">
             <input id="password" type="password" placeholder="password" v-model="password" />
-            <label for="password">Password</label>
+            <!-- <label for="password">Password</label> -->
           </div>
             <button @click="login()" :disabled="!username || !password" class="login-button" title="login">Log In</button>
             <div class="separator">
@@ -151,7 +151,7 @@ label {
 /* hiding placeholder in all browsers */
 
 input::placeholder {
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 
 /* hiding  placeholder in mozilla */
