@@ -3,13 +3,14 @@ import "firebase/auth"
 import "firebase/storage"
 
 var config = {
-    apiKey: "AIzaSyAsUJmO_osjymfIq9Kgkue-UlJEqLkJkqs",
-    authDomain: "instagram-clone-d57b3.firebaseapp.com",
-    projectId: "instagram-clone-d57b3",
-    storageBucket: "instagram-clone-d57b3.appspot.com",
-    messagingSenderId: "782429566135",
-    appId: "1:782429566135:web:ed02c35442310aaf12c932",
-    measurementId: "G-SVW4T4D3ZD" 
+    apiKey: "AIzaSyAQ9117VVmZZH8uolzNdvO9qoj2B_ADWv8",
+    authDomain: "instagram-clone-ab61a.firebaseapp.com",
+    databaseURL: "https://instagram-clone-ab61a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "instagram-clone-ab61a",
+    storageBucket: "instagram-clone-ab61a.appspot.com",
+    messagingSenderId: "702234641860",
+    appId: "1:702234641860:web:bda7f2d3f74e1051a39091",
+    measurementId: "G-GHN9WW6S4W"
 
   };
 
