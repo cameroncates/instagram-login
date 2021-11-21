@@ -17,7 +17,7 @@
             <input id="password" type="password" placeholder="password" v-model="password" />
             <!-- <label for="password">Password</label> -->
           </div>
-            <button @click="login()" :disabled="!username || !password" class="login-button" title="login">Log In</button>
+            <button type="button" @click="login()" :disabled="!username || !password" class="login-button" title="login">Log In</button>
             <div class="separator">
               <div class="line"></div>
               <p>OR</p>
