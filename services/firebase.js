@@ -9,7 +9,7 @@ var config = {
     storageBucket: "instagram-clone-d57b3.appspot.com",
     messagingSenderId: "782429566135",
     appId: "1:782429566135:web:ed02c35442310aaf12c932",
-    measurementId: "G-SVW4T4D3ZD"
+    measurementId: "G-SVW4T4D3ZD" 
 
   };
 
